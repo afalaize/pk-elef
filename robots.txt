@@ -1,0 +1,4 @@
+Sitemap: http://www.pk-elef.fr/sitemapindex.xml
+
+User-Agent: *
+Host: www.pk-elef.fr
