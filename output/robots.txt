@@ -1,4 +1,4 @@
-Sitemap: http://www.pk-elef.fr/sitemapindex.xml
+Sitemap: https://github.com/afalaize/pk-elef/sitemapindex.xml
 
 User-Agent: *
-Host: www.pk-elef.fr
+Host: github.com

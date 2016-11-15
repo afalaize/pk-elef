@@ -6,67 +6,75 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://www.pk-elef.fr/</loc>
-  <lastmod>2016-11-15T21:27:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/</loc>
+  <lastmod>2016-11-15T23:17:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/archive.html</loc>
-  <lastmod>2016-11-15T22:43:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/archive.html</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/audios/</loc>
+  <loc>https://github.com/afalaize/pk-elef/audios/</loc>
   <lastmod>2016-11-15T21:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/blog/</loc>
+  <loc>https://github.com/afalaize/pk-elef/blog/</loc>
   <lastmod>2016-11-15T20:45:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/categories/</loc>
+  <loc>https://github.com/afalaize/pk-elef/categories/</loc>
   <lastmod>2016-11-15T20:21:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/galleries/</loc>
-  <lastmod>2016-11-15T22:49:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/contact/</loc>
+  <lastmod>2016-11-15T23:17:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/galleries/cemurmure/</loc>
+  <loc>https://github.com/afalaize/pk-elef/galleries/</loc>
+  <lastmod>2016-11-15T23:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Artworks/</loc>
+  <lastmod>2016-11-15T23:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Ce%20MurMure/</loc>
+  <lastmod>2016-11-15T23:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Gary%27s%20party/</loc>
+  <lastmod>2016-11-15T23:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Garysparty/</loc>
+  <lastmod>2016-11-15T23:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/afalaize/pk-elef/galleries/cemurmure/</loc>
   <lastmod>2016-11-15T22:42:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/listings/</loc>
+  <loc>https://github.com/afalaize/pk-elef/listings/</loc>
   <lastmod>2016-11-15T20:21:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/pink-elephants-on-the-web/</loc>
+  <loc>https://github.com/afalaize/pk-elef/pk-elef-artworks/</loc>
   <lastmod>2016-11-15T20:21:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/pk-elef-artworks/</loc>
+  <loc>https://github.com/afalaize/pk-elef/pk-elef-contact/</loc>
   <lastmod>2016-11-15T20:21:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/pk-elef-audios/</loc>
+  <loc>https://github.com/afalaize/pk-elef/pk-elef-photos/</loc>
   <lastmod>2016-11-15T20:21:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/pk-elef-contact/</loc>
-  <lastmod>2016-11-15T20:21:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.pk-elef.fr/pk-elef-photos/</loc>
-  <lastmod>2016-11-15T20:21:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.pk-elef.fr/pk-elef-story/</loc>
-  <lastmod>2016-11-15T20:21:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.pk-elef.fr/story/</loc>
+  <loc>https://github.com/afalaize/pk-elef/story/</loc>
   <lastmod>2016-11-15T21:26:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.pk-elef.fr/videos/</loc>
+  <loc>https://github.com/afalaize/pk-elef/videos/</loc>
   <lastmod>2016-11-15T20:21:00Z</lastmod>
  </url>
 </urlset>

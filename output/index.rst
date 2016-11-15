@@ -7,8 +7,8 @@
 .. description: 
 .. type: text
 
-Welcome to this webpage dedicated to the **Pink Elephants**
+Welcome to this website dedicated to the **Pink Elephants**
 
-.. image:: images/photos/concerts/cemurmure/jocelyn_marques_4.jpg
+.. image:: galleries/Ce MurMure/jocelyn_marques_4.jpg
 	
 photo: `Jocelyn Marques <http://www.marquesphotographie.com/>`__
