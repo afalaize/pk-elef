@@ -25,7 +25,7 @@ SITE_URL = "http://www.pk-elef.fr/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.pk-elef.fr/"
-BLOG_EMAIL = "pk.elef@gmail.com"
+BLOG_EMAIL = "pink.elephants.recording@gmail.com"
 BLOG_DESCRIPTION = "French elephantine music"  # (translatable)
 
 # Nikola is multilingual!
@@ -129,11 +129,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/audios/", "Audios"),
-        ("/videos/", "Videos"),
+        ("/galleries/", "Audios"),
+        ("/galleries/cemurmure/", "Videos"),
         ("/photos/", "Photos"),
         ("/contact/", "Contact"),
-        ("/rss.xml", "RSS feed"),
+        #("/rss.xml", "RSS feed"),
     ),
 }
 
@@ -142,7 +142,12 @@ THEME = "lanyon"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#d4ba56'
+
+GLOBAL_CONTEXT = {
+    "lanyon_subtheme": "theme-base-08"
+}
+
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -548,11 +553,11 @@ REDIRECTIONS = []
 # https://getnikola.com/handbook.html#deploying-to-github
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-# GITHUB_SOURCE_BRANCH = 'master'
-# GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
-# GITHUB_REMOTE_NAME = 'origin'
+GITHUB_REMOTE_NAME = 'origin'
 
 # Whether or not github_deploy should commit to the source branch automatically
 # before deploying.
