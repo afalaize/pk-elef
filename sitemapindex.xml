@@ -6,19 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.pk-elef.fr/galleries/cemurmure/rss.xml</loc>
-  <lastmod>2016-11-15T22:49:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Artworks/rss.xml</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.pk-elef.fr/galleries/rss.xml</loc>
-  <lastmod>2016-11-15T22:43:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Ce%20MurMure/rss.xml</loc>
+  <lastmod>2016-11-15T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.pk-elef.fr/rss.xml</loc>
-  <lastmod>2016-11-15T22:33:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Gary%27s%20party/rss.xml</loc>
+  <lastmod>2016-11-15T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.pk-elef.fr/sitemap.xml</loc>
-  <lastmod>2016-11-15T22:49:00Z</lastmod>
+  <loc>https://github.com/afalaize/pk-elef/galleries/Garysparty/rss.xml</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://github.com/afalaize/pk-elef/galleries/cemurmure/rss.xml</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://github.com/afalaize/pk-elef/galleries/rss.xml</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://github.com/afalaize/pk-elef/rss.xml</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://github.com/afalaize/pk-elef/sitemap.xml</loc>
+  <lastmod>2016-11-15T23:28:00Z</lastmod>
  </sitemap>
 </sitemapindex>
