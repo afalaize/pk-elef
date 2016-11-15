@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Pink Elephants"  # (translatable)
 BLOG_TITLE = "Pink Elephants"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://github.com/afalaize/pk-elef/"
+SITE_URL = "https://afalaize.github.io/pk-elef/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.pk-elef.fr/"
@@ -138,15 +138,15 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "lanyon"
+THEME = "bootstrap3"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
 THEME_COLOR = '#d4ba56'
 
-GLOBAL_CONTEXT = {
-    "lanyon_subtheme": "theme-base-08"
-}
+# GLOBAL_CONTEXT = {
+#     "lanyon_subtheme": "theme-base-08"
+# }
 
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
