@@ -9,7 +9,7 @@
 
 Welcome to this website dedicated to the **Pink Elephants**
 
-.. image:: /galleries/CeMurMure/jocelyn_marques_4.jpg
+.. image:: '/galleries/CeMurMure/jocelyn_marques_4.jpg'
    :width: 550
 	
 photo: `Jocelyn Marques <http://www.marquesphotographie.com/>`__
