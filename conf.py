@@ -144,10 +144,6 @@ THEME = "lanyon"
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
 THEME_COLOR = '#d4ba56'
 
-# GLOBAL_CONTEXT = {
-#     "lanyon_subtheme": "theme-base-08"
-# }
-
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -1167,8 +1163,8 @@ UNSLUGIFY_TITLES = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
-
+GLOBAL_CONTEXT = {"lanyon_subtheme": "theme-base-0e", # color for lanyon: 08=red, 09=orange, 0a=yellow, 0b=green, 0c=cyan, 0d=blue, 0e=prurple, 0f=maroon,
+				 }
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
