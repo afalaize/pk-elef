@@ -7,13 +7,16 @@
 .. description: 
 .. type: text
 
-Concerts
-=========
+Le gros boeuf musqué
+--------------------
+chez `Radio Maskle <https://www.facebook.com/radiomaskle/>`__, Paris, october 2016
 
-Ce Murmure 
------------
+.. youtube:: foFFZ-ZRvv4
 
-Semur-en-Auxois 2016
+Ce Murmure Festival
+--------------------
+
+avec l'association `Raspatakouet <https://www.facebook.com/asso.raspatakouet?fref=ts>`__, Semur-en-Auxois, august 2016
 
 .. youtube:: N2gNhdhzkF0
 
@@ -23,6 +26,6 @@ Semur-en-Auxois 2016
 Wanted
 -------
 
-Eaubonne 2015
+Avec l'association `Àquiletour <https://www.facebook.com/profile.php?id=100008370849691&fref=ts>`__, Eaubonne, december 2015
 
 .. youtube:: Mg16ctJaftQ
