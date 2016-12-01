@@ -138,11 +138,11 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "lanyon"
+THEME = "bootstrap3"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#d4ba56'
+THEME_COLOR = '#993f6c'
 
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
